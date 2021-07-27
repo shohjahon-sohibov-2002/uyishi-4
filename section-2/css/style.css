@@ -1,0 +1,15 @@
+
+body {
+  background-color: #92702F;
+}
+.list-wrapper {
+  background-color: #FFB800;
+  text-align: center;
+}
+
+.list-item {
+  text-transform: uppercase;
+  list-style-type: none;
+  font-weight: normal;
+  display: inline-block;
+}

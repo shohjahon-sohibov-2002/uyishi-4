@@ -1,0 +1,51 @@
+body {
+  color: whitesmoke;
+}
+
+.page-title {
+  color: black;
+  text-align: center;
+}
+hr {
+  width: 50px;
+  color: black;
+}
+
+.content-header {
+  text-align: center;
+  color: black;
+}
+
+li {
+  list-style-type: none;
+}
+
+h2 {
+  color: black;
+}
+
+.list-content {
+  color: rgba(0, 0, 0, 0.301);
+}
+
+.list-wrapper {
+  text-align: center;
+}
+
+.inside-list-wrapper {
+  text-align: left;
+  width: 360px;
+  height: 300px;
+  display: inline-block;
+  border: 1px solid whitesmoke;
+  vertical-align: middle;
+  background-color: white;
+}
+
+.button {
+  text-align: center;
+  border: 1px solid blue;
+  border-radius: 25px;
+  color: blue;
+  width: 130px;
+}
